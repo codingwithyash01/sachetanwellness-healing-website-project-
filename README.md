@@ -44,7 +44,7 @@ I handled everything end-to-end:
 ---
 
 ## 🌐 Live Website
-👉 [Visit Sachetan Wellness](https://www.sachetanwellness.com)
+👉 [Visit Sachetan Wellness](https://www.sacheetanwellness.com)
 
 ---
 
